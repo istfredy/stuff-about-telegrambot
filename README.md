@@ -1,5 +1,9 @@
 ## @brief Information about the Telegram Bot Project
 
+<center>
+   <img src="./assets/botfather.png" alt="BotFather" />
+</center>
+
 This document serves as a comprehensive guide to my Telegram bot project. Here, you'll find details regarding its functionalities, features, and any updates pertinent to the project.
 
 ## About
